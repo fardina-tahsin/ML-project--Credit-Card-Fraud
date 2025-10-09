@@ -18,7 +18,7 @@ Final Model: Decision Tree trained on SMOTE-oversampled data.
 
 Technologies: Python, pandas, numpy, scikit-learn, imbalanced-learn, Streamlit, Joblib.
 
-My App link: 
+My App link: https://credit-card-fraud-8qpbmfv3jjzy2p9wdn24hk.streamlit.app/
 
 Dataset used: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
